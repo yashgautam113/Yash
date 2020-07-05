@@ -13,11 +13,16 @@ p{
     margin-right: auto;
     margin-top: 0;
     box-sizing: border-box;
-    padding: auto;
+    padding: 5px;
     background-color: gray;
     border: 1px solid black;
     margin-right: 5px;
+    position: relative;
+    color: white;
     
+}
+p span{
+    color: black;
 }
 .row{
     width: 100%;
