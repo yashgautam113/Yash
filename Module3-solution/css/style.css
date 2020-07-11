@@ -1,0 +1,31 @@
+body{
+    background-color: gray;
+}
+.container{
+	border-radius: 0;
+}
+.logo{
+	font-size: 30px;
+	text-decoration: none;
+}
+.menu{
+	text-align :center;
+	color: black;
+	font-size: 22px;
+}
+.h{
+	margin-top:10px;
+	text-align: center;
+	font-size: 18px
+}
+.content{
+	margin-top: 30px;
+	border: 1px solid black;
+	color: black;
+}
+.tex{
+	margin-top: 8px;
+}
+#collapsable-nav{
+	float:right;
+}
